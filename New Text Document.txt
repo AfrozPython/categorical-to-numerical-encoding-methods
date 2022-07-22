@@ -1,0 +1,5 @@
+https://slidecourse.blogspot.com/2021/06/numerical-vs-categorical-data.html
+
+https://towardsdatascience.com/know-about-categorical-encoding-even-new-ones-c266227b9cbd
+
+https://www.educative.io/blog/one-hot-encoding
